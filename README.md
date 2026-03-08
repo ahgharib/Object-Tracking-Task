@@ -36,14 +36,15 @@ This repository implements a **real-time single-object tracker** combining **YOL
 
 ### ⚙️ Installation
 
-
+```
 git clone <repo-url>
 cd <repo-folder>
 pip install -r requirements.txt
 pip install torch==2.12.0.dev20260307+cu128 torchvision==0.26.0.dev20260221+cu128 torchaudio==2.11.0.dev20260227+cu128 --pre --extra-index-url https://download.pytorch.org/whl/nightly/cu128
+```
 
 ### 🖥️ Usage
-python tracker.py
+python file_name.py
 
 Click on any object in the "Tracking window" to lock on.
 
