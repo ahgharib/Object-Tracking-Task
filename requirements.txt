@@ -1,0 +1,11 @@
+opencv-python==4.13.0.92
+opencv-contrib-python==4.13.0.92
+Pillow==12.1.1
+torch==2.12.0.dev20260307+cu128
+torchvision==0.26.0.dev20260221+cu128
+torchaudio==2.11.0.dev20260227+cu128
+ultralytics==8.4.19
+supertracker==0.2.0
+open_clip_torch==3.3.0
+numpy==2.4.2
+typing_extensions==4.15.0
